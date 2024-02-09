@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "node": "nodemon src/app.js",
+    "node": "nodemon src/index.js",
     "build": "npm i",
     "install-server": "cd backend && npm install",
     "start-server": "cd backend && node app.js",
